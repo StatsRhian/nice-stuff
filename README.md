@@ -2,6 +2,9 @@
 
 Just a collection of nice feedback I have had over the years.
 
+## Presentations
+
+> I was thoroughly impressed by the insightful talks you gave during the conference; they were both engaging and informative, definitely some of my favorite talks in this conference.  (RSS attendee 2023)
 
 ## Training
 
