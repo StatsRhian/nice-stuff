@@ -37,12 +37,14 @@ Just a collection of nice feedback I have had over the years.
 
 > Rhian was very knowledgeable, and very good at explaining things
 
+> You are great at explaining things simply!
 
 > Rhian was an excellent instructor, very clear explanations, quick, responsive and knowledgeable.
 
 
 > Rhian was a brilliant teacher.
 
+> thank you it's been really useful and informative i feel like i understand the theory of things a bit more than i did at undergrad (Statistical modelling course)
 
 > Rhian was an excellent trainer - enthusiastic, engaging and knowledgeable.
 
