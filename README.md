@@ -34,6 +34,7 @@ Just a collection of nice feedback I have had over the years.
 
 > Sometimes plotting our data/results is something that we HAVE TO do, but I've just discovered how fun it can be. Rhian was a great teacher and gave us also many external resources to get ideas and improve our skills
 
+> We universally loved the format and delivery from Rhian; the regular and useful breaks are well timed and help with fatigue and the totally interactive nature of the teaching made the content easy to understand and the two afternoons fly by, without feeling stressed but still feeling there was valuable learning. In short an excellent format and presenter!
 
 > Rhian was very knowledgeable, and very good at explaining things
 
