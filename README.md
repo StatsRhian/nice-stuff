@@ -2,10 +2,14 @@
 
 Just a collection of nice feedback I have had over the years.
 
-## As a Line manager
+## As a line manager
 
 >  I haven't forgotten the kindness and patience you showed me as I tried and failed to adjust to the role. It was a difficult time for me, at and away from work, and your daily support was a lifeline when I really needed one.
 
+## As a colleague
+
+> I really value how you can get to the root of issues and bring clarity to discussions  
+ 
 ## Presentations
 
 > I was thoroughly impressed by the insightful talks you gave during the conference; they were both engaging and informative, definitely some of my favorite talks in this conference.  (RSS attendee 2023)
