@@ -9,7 +9,9 @@ Just a collection of nice feedback I have had over the years.
 ## As a colleague
 
 > I really value how you can get to the root of issues and bring clarity to discussions
+> 
 > I always find you bring such a good perspective on difficult topics
+> 
 > You have a really nice manner in facilitation
  
 ## Presentations
