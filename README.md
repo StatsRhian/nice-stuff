@@ -6,13 +6,31 @@ Just a collection of nice feedback I have had over the years.
 
 >  I haven't forgotten the kindness and patience you showed me as I tried and failed to adjust to the role. It was a difficult time for me, at and away from work, and your daily support was a lifeline when I really needed one.
 
+> Rhian makes herself available when I need her and she has had some great ideas on what we could focus on and some great questions to ask.
+
+> Her relaxed and humorous style makes me feel at ease being open about things I'm struggling with, and she is very compassionate as well as constructive.
+
+> I feel like she wants to know what makes me tick.
+
 ## As a colleague
 
-> I really value how you can get to the root of issues and bring clarity to discussions
+> Rhian's skills are rare and very valued, she is extremenly knowledgeable without any condescension.
 
-> I always find you bring such a good perspective on difficult topics
+> I really value how Rhian can get to the root of issues and bring clarity to discussions.
 
-> You have a really nice manner in facilitation
+> I always find Rhian brings such a good perspective on difficult topics.
+
+> Rhian sticks with her values around data science to produce valid, impactful work.
+
+> Rhian's manner is calm and even tempered, which brings a stability to any call/room, and she 'oils the wheels' of conversation which is really valuable.
+
+> Rhian is absolutely brilliant, very kind and empathetic.
+
+> Rhian is technically really good, especially with communicating via visual representations of data.
+
+> Rhian has a really nice manner in facilitation.
+
+> Rhian is a fantastic, kind, knowledgeable and trustworthy colleague.
  
 ## Presentations
 
@@ -24,31 +42,25 @@ Just a collection of nice feedback I have had over the years.
 
 > Rhian did an unbelievable job in challenging circumstances
 
+> Rhian is very capable, very clear in her communication, and she delivers what we need, when we ask for it.
+
 ## Training
 
 > I enjoyed every minute of the course. The presenter has great teaching skills.
 
-
 > Rhian was very good. Very knowledgeable and good sense of humour. Eager to go off on tangents to demonstrate other little programming gems - a sign of someone who really knows their stuff and enjoys it! That comes across very clearly.
-
 
 > Rhian was really open to questions, and was great at responding to these.
 
-
 > Rhian's ability to explain the nuts and bolts of how a function worked.
-
 
 > Thank you so much for the excellent course, Rhian. You’re a brilliant educator!
 
-
 > Thank you Rhian for an excellent session once again! Really good teaching wish I had the same 35 years ago!!
-
 
 > Rhian made the course seem informal and incredibly approachable, she made a few jokes which lightened the tone and made me feel relaxed so that I felt more comfortable getting involved with the tasks etc.
 
-
 > Rhian explained things very clearly. She helped me to understand some basics that I hadn't grasped in the earlier courses. I particularly liked that she showed how to look things up and that not knowing things off the top of your head wasn't a failure. Clearly being new to R we will have to look up a lot of things so it was good to do this in the practice, and to see an expert doing it too!
-
 
 > Sometimes plotting our data/results is something that we HAVE TO do, but I've just discovered how fun it can be. Rhian was a great teacher and gave us also many external resources to get ideas and improve our skills
 
@@ -59,7 +71,6 @@ Just a collection of nice feedback I have had over the years.
 > You are great at explaining things simply!
 
 > Rhian was an excellent instructor, very clear explanations, quick, responsive and knowledgeable.
-
 
 > Rhian was a brilliant teacher.
 
