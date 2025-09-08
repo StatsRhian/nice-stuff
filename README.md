@@ -46,6 +46,8 @@ Just a collection of nice feedback I have had over the years.
 
 ## Training
 
+> This was one of the best workshops I've attended, in my life (RSS attendee 2025) 
+
 > I enjoyed every minute of the course. The presenter has great teaching skills.
 
 > Rhian was very good. Very knowledgeable and good sense of humour. Eager to go off on tangents to demonstrate other little programming gems - a sign of someone who really knows their stuff and enjoys it! That comes across very clearly.
