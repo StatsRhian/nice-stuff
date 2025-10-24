@@ -46,6 +46,8 @@ Just a collection of nice feedback I have had over the years.
 
 ## Training
 
+> R Package workshop - really amazing, left feeling extremely confident that this was achievable (RSS 2025)
+
 > This was one of the best workshops I've attended, in my life (RSS attendee 2025) 
 
 > I enjoyed every minute of the course. The presenter has great teaching skills.
