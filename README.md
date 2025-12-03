@@ -31,6 +31,10 @@ Just a collection of nice feedback I have had over the years.
 > Rhian has a really nice manner in facilitation.
 
 > Rhian is a fantastic, kind, knowledgeable and trustworthy colleague.
+
+## Conference / events organisation & management
+
+> Your chairing & management of the stream this morning was so smooth, relaxed, and professional.  You seemed utterly at ease.  
  
 ## Presentations
 
