@@ -48,6 +48,11 @@ Just a collection of nice feedback I have had over the years.
 
 > Rhian is very capable, very clear in her communication, and she delivers what we need, when we ask for it.
 
+> I wanted to say that it's all thanks to you that our QA for NHP model is in such good shape - thank you Rhian for leading on it and being such a star ⭐
+
+> Rhian, I just wanted to say thank you and flag how your networking has connected us to two future customers. Even if it doesn't go anywhere this has helped broaden the group of people nationally who know about our work. Well done and thank you.
+ 
+
 ## Training
 
 > R Package workshop - really amazing, left feeling extremely confident that this was achievable (RSS 2025)
