@@ -14,7 +14,7 @@ Just a collection of nice feedback I have had over the years.
 
 ## As a colleague
 
-> Rhian's skills are rare and very valued, she is extremenly knowledgeable without any condescension.
+> Rhian's skills are rare and very valued, she is extremely knowledgeable without any condescension.
 
 > I really value how Rhian can get to the root of issues and bring clarity to discussions.
 
