@@ -1,8 +1,8 @@
-# Nice Stuff :sparkles:
+# Nice Stuff :sparkles: :blush:
 
 Just a collection of nice feedback I have had over the years.
 
-## As a line manager
+## As a line manager 🌱
 
 >  I haven't forgotten the kindness and patience you showed me as I tried and failed to adjust to the role. It was a difficult time for me, at and away from work, and your daily support was a lifeline when I really needed one.
 
@@ -12,7 +12,7 @@ Just a collection of nice feedback I have had over the years.
 
 > I feel like she wants to know what makes me tick.
 
-## As a colleague
+## As a colleague 🤓
 
 > Rhian's skills are rare and very valued, she is extremely knowledgeable without any condescension.
 
@@ -32,15 +32,15 @@ Just a collection of nice feedback I have had over the years.
 
 > Rhian is a fantastic, kind, knowledgeable and trustworthy colleague.
 
-## Conference / events organisation & management
+## Conference / events organisation & management 📋
 
 > Your chairing & management of the stream this morning was so smooth, relaxed, and professional.  You seemed utterly at ease.  
  
-## Presentations
+## Presentations :speaking_head:
 
 > I was thoroughly impressed by the insightful talks you gave during the conference; they were both engaging and informative, definitely some of my favorite talks in this conference.  (RSS attendee 2023)
 
-## Client work
+## Client work 👩‍💻
 
 > Just wanted to drop you a note to say thanks very much for setting up the shiny application so smoothly, effectively and responsively! It wasn’t an easy ask with some challenging timescales and changing requirements, but you were super flexible and very quick to understand what we needed and be clear on the options.
 
@@ -53,7 +53,7 @@ Just a collection of nice feedback I have had over the years.
 > Rhian, I just wanted to say thank you and flag how your networking has connected us to two future customers. Even if it doesn't go anywhere this has helped broaden the group of people nationally who know about our work. Well done and thank you.
  
 
-## Training
+## Training 👩‍🏫
 
 > R Package workshop - really amazing, left feeling extremely confident that this was achievable (RSS 2025)
 
