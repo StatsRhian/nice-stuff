@@ -59,6 +59,8 @@ Just a collection of nice feedback I have had over the years.
 
 > Just a quick thank you message to say I built my first package in work after your workshop! It was a huge help to have your guide on the whole lifecycle (You can build an R package, rainbowR 2026)
 
+> I enjoyed the workshop, really engaging and friendly teachers. Rhian makes learning fun! (You can build an R package, rainbowR 2026)
+
 > R Package workshop - really amazing, left feeling extremely confident that this was achievable (RSS 2025)
 
 > This was one of the best workshops I've attended, in my life (RSS attendee 2025) 
