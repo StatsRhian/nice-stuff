@@ -50,6 +50,8 @@ Just a collection of nice feedback I have had over the years.
 
 > Just wanted to drop you a note to say thanks very much for setting up the shiny application so smoothly, effectively and responsively! It wasn’t an easy ask with some challenging timescales and changing requirements, but you were super flexible and very quick to understand what we needed and be clear on the options.
 
+> Rhian is exemplary at organising and executing a plan, as shown by her approach to integrate reskit, which is a large and complex task that involves multiple products and people
+
 > Rhian did an unbelievable job in challenging circumstances
 
 > Rhian is very capable, very clear in her communication, and she delivers what we need, when we ask for it.
