@@ -16,6 +16,10 @@ Just a collection of nice feedback I have had over the years.
 
 > Rhian's skills are rare and very valued, she is extremely knowledgeable without any condescension.
 
+> I am a big fan of Rhian's. The team is way stronger with her in it. 
+
+> Rhian has great knowledge of the R ecosystem has helped us think about development in a slightly different way.
+
 > I really value how Rhian can get to the root of issues and bring clarity to discussions.
 
 > I always find Rhian brings such a good perspective on difficult topics.
@@ -25,6 +29,8 @@ Just a collection of nice feedback I have had over the years.
 > Rhian's manner is calm and even tempered, which brings a stability to any call/room, and she 'oils the wheels' of conversation which is really valuable.
 
 > Rhian is absolutely brilliant, very kind and empathetic.
+
+> I particularly appreciate that Rhian questions why when we're asked do things, so that we deliver to actual needs and stop ourselves from wasting energy.
 
 > Rhian is technically really good, especially with communicating via visual representations of data.
 
