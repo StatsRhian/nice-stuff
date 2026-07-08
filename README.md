@@ -2,17 +2,9 @@
 
 Just a collection of nice feedback I have had over the years.
 
-## As a line manager 🌱
-
->  I haven't forgotten the kindness and patience you showed me as I tried and failed to adjust to the role. It was a difficult time for me, at and away from work, and your daily support was a lifeline when I really needed one.
-
-> Rhian makes herself available when I need her and she has had some great ideas on what we could focus on and some great questions to ask.
-
-> Her relaxed and humorous style makes me feel at ease being open about things I'm struggling with, and she is very compassionate as well as constructive.
-
-> I feel like she wants to know what makes me tick.
-
 ## As a colleague 🤓
+
+> Rhian, you are the best at bringing order to chaotic / messy situations! You have such an amazing ability to cut through the noise and help people refocus on what really matters.
 
 > Rhian's skills are rare and very valued, she is extremely knowledgeable without any condescension.
 
@@ -37,6 +29,16 @@ Just a collection of nice feedback I have had over the years.
 > Rhian has a really nice manner in facilitation.
 
 > Rhian is a fantastic, kind, knowledgeable and trustworthy colleague.
+
+## As a line manager 🌱
+
+>  I haven't forgotten the kindness and patience you showed me as I tried and failed to adjust to the role. It was a difficult time for me, at and away from work, and your daily support was a lifeline when I really needed one.
+
+> Rhian makes herself available when I need her and she has had some great ideas on what we could focus on and some great questions to ask.
+
+> Her relaxed and humorous style makes me feel at ease being open about things I'm struggling with, and she is very compassionate as well as constructive.
+
+> I feel like she wants to know what makes me tick.
 
 ## Conference / events organisation & management 📋
 
