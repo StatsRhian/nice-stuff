@@ -50,6 +50,8 @@ Just a collection of nice feedback I have had over the years.
 
 ## Client work 👩‍💻
 
+> Working with Rhian & Matt has been absolute pleasure and we have made huge progress that wouldn't have otherwise been possible (GreenerNHS RAP refactor consultancy)
+
 > Just wanted to drop you a note to say thanks very much for setting up the shiny application so smoothly, effectively and responsively! It wasn’t an easy ask with some challenging timescales and changing requirements, but you were super flexible and very quick to understand what we needed and be clear on the options.
 
 > Rhian is exemplary at organising and executing a plan, as shown by her approach to integrate reskit, which is a large and complex task that involves multiple products and people
